@@ -10,7 +10,7 @@ const products = [
     old: 310,
     color: "Sand",
     image:
-      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=900&q=85",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const products = [
     price: 78,
     color: "Clay",
     image:
-      "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?auto=format&fit=crop&w=900&q=85",
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const products = [
     price: 164,
     color: "Walnut",
     image:
-      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1540932239986-30128078f3c5?auto=format&fit=crop&w=900&q=85",
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const products = [
     price: 95,
     color: "Oat",
     image:
-      "https://images.unsplash.com/photo-1583845112203-454c2f3e7f3b?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=85",
   },
   {
     id: 5,
@@ -46,7 +46,7 @@ const products = [
     price: 189,
     color: "Oak",
     image:
-      "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1594026112284-02bb6f3352fe?auto=format&fit=crop&w=900&q=85",
   },
   {
     id: 6,
@@ -55,7 +55,7 @@ const products = [
     price: 42,
     color: "Ecru",
     image:
-      "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=900&q=85",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=900&q=85",
   },
 ];
 
@@ -161,7 +161,7 @@ function App() {
         </div>
         <div className="hero-image">
           <img
-            src="https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1400&q=90"
+            src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1400&q=90"
             alt="Warm neutral living room"
           />
           <div className="hero-label">
@@ -265,7 +265,7 @@ function App() {
       <section className="feature">
         <div className="feature-image">
           <img
-            src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=85"
+            src="https://images.unsplash.com/photo-1602523961358-f9f03dd557db?auto=format&fit=crop&w=1200&q=85"
             alt="Textured throw and cushions"
           />
         </div>
